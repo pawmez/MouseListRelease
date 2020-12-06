@@ -4,7 +4,7 @@ App created for the scientists team working with mice. Serves as a GUI and contr
 - Daily data gathered about animals being worked on.
 
 # MouseListModerator
-App for setting up the database for each project. A lab manager is able to define relationships and dependencies between the data, which is assigned later on by users.
+App for setting up the database for each project. A lab manager is able to define relationships and dependencies between the data, which can be assigned later on by users (for example correct genotypes for procedures).
 
 ## About
 
